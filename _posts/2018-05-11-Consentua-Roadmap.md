@@ -8,15 +8,17 @@ comments: true
 
 ## Now on Trello
 
-Taking a leaf out of some [other's books](https://trello.com/b/bnAC4rtd/pixelme-roadmap) (thank you Pixelme!) and in the interests of transparency the Consentua team is pleased to release in public the [Consentua Roadmap](https://trello.com/b/AktQXrOh/consentua-roadmap).  
+Taking a leaf out of some [other's books](https://trello.com/b/bnAC4rtd/pixelme-roadmap) (thank you Pixelme!) and in the interests of transparency the Consentua team is pleased to release in public the [Consentua Roadmap](https://trello.com/b/AktQXrOh/consentua-roadmap).
 
-We invite comments and votes for promoting changes on the existing cards.   As well sugestons for new functions and  enhancements that we can add to Consentua over time.
+We wanted to improve customer trust in our brand by publishing upcoming developments. Our brand ethos is always to be as open and transparent as possible.
+
+We invite comments and votes for promoting changes on the existing cards.  As well sugestons for new functions and  enhancements that we can add to Consentua over time.
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Consnetua-trellroadmap.PNG" alt="img center">
 
 ## How it works
 
-The cards have been allocated a target build.   These are given obscure mammal names so we know which release we are working on.  
+The cards have been allocated a target build.  We give the builds obscure mammal names so we know which release we are working on.  
 
 So far we have outlined plans for the next two releases.  These are Capybara and Dugong, which have a specific focus in each release. For Capybara the focus is all about the "Purposes'.   For Dugong the focus is on the Consent Receipt.  However, plans are always subject to change especially when driven by customer demands. 
 
@@ -26,7 +28,7 @@ So far we have outlined plans for the next two releases.  These are Capybara and
 
 <img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/thumbs.JPG" alt="img right">
 
-The intention is to have the majority of future functional change driven by customer demand. This seems much better  than us sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority in terms of improved performance, security, resilience and maybe sometimes function.  
+The intention is to have the majority of future functional change driven by customer demand. This seems much better  than us sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority through improved performance, security, resilience and sometimes function.  
 
 To that end we ask our followers and users to help us prioritise the next functions and vote with your thumbs.   
 
