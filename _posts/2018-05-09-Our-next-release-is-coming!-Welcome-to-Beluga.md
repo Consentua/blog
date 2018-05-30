@@ -20,7 +20,7 @@ This however, did not address the fact we had hard coded some elements of the SD
 
 If you have a need for a specific language template, then now you just write the template in that language from the start.   Append that template to a specific service.  Then add those users to that service using that languages template.  
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-5-11-Our-next-release-is-coming!-Welcome-to-Beluga/Multi-Lingual.PNG" alt="img center">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-09-Our-next-release-is-coming!-Welcome-to-Beluga/Multi-Lingual.PNG" alt="img center">
 
 ## User Consent View
 
@@ -30,7 +30,7 @@ The first is a user query.  This gives us the purposes that this user has agreed
 The second is the purpose query.  This gives the admin a list of users that have agreed to a specific purpose.   
 
   
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-5-11-Our-next-release-is-coming!-Welcome-to-Beluga/Consentua-dashboard-reports.PNG" alt="img center">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-09-Our-next-release-is-coming!-Welcome-to-Beluga/Consentua-dashboard-reports.PNG" alt="img center">
 
 ## Right to be Forgotten
 
@@ -40,7 +40,7 @@ The template when interacted with by a user will send an email notification to t
 
 We have made a conscious decision to stop at this point.  Some of our competitors will start digging through the weeds of your data in your organisation to make sure that the data is truly forgotten.   This is a step to far in terms of making Consentua easy to install.   Hence we have left it at the notification only stage at this time.   However, we do have a future collaboration planned depending on customer sponsorship with this use case in mind.   Watch this space!  
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-5-11-Our-next-release-is-coming!-Welcome-to-Beluga/Notifiable-template.PNG" alt="img center">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-09-Our-next-release-is-coming!-Welcome-to-Beluga/Notifiable-template.PNG" alt="img center">
 
 ## Ready
 
