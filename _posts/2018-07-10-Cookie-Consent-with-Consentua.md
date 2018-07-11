@@ -10,7 +10,7 @@ comments: true
 
 Let's use [Consentua](https://consentua.com) and the consentua [webSDK](https://websdk.consentua.com) to create a cookie consent dialog which have been *popping up* a lot recently 😁.
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-07-10-Cookie-Consent-with-Consentua/consentua-cookie.svg" alt="img">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-07-10-Cookie-Consent-with-Consentua/consentua-cookie.jpg" alt="img">
 
 ## Creating Cookie Consent Dialog
 
