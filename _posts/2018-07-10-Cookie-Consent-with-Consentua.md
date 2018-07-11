@@ -36,7 +36,7 @@ All that's left is to add some fancy styles 🎨 or animations and to create wha
 
 Here is a codepen snippet of the complete cookie consent dialog, you can view the full code needed here.
 
-You can also see the [consentua home page](consentua) use this to enable google analytics cookies (you might need to clear your cookies).
+You can also see the [consentua home page](https://consentua.com) use this to enable google analytics cookies (you might need to clear your cookies).
 
 <p data-height="700" data-theme-id="32866" data-slug-hash="BPaRRv" data-default-tab="result" data-user="sideshowjack" data-embed-version="2" data-pen-title="Consentua Cookie Consent" class="codepen">See the Pen <a href="https://codepen.io/sideshowjack/pen/BPaRRv/">Consentua Cookie Consent</a> by <a href="https://codepen.io/sideshowjack">sideshowjack</a> on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
