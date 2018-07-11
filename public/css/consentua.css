@@ -213,6 +213,95 @@ a.sidebar-nav-item:focus {
   padding: 1rem 1rem 1rem 0rem;
 }
 
+.post .btn{
+  font-family: 'Raleway', 'FontAwesome';
+  padding: 0.8rem;
+  color: #F6F6F6;
+  color: var(--white-2-color, #F6F6F6);
+  border:color, #F6F6F6;
+  border: 1px solid var(--white-2-color, #F6F6F6);
+  -webkit-transition: 200ms;
+  transition: 200ms;
+  background: transparent;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+  display: block;
+  margin: 0rem auto;
+  max-width: 200px;
+  text-align: center;
+
+}
+
+.post .btn:hover {
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-1px);
+}
+
+.post .btn:focus {
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(0);
+}
+
+.post .btn.btn-black {
+  color: #F6F6F6;
+  color: var(--white-2-color, #F6F6F6);
+  background: #212121;
+  background: var(--dark-2-color, #212121);
+  border-color: #212121;
+  border-color: var(--dark-2-color, #212121);
+}
+
+.post .btn.btn-green {
+  color: #F6F6F6;
+  color: var(--white-2-color, #F6F6F6);
+  background: #4CAF50;
+  background: var(--green-color, #4CAF50);
+  border-color: #4CAF50;
+  border-color: var(--green-color, #4CAF50);
+}
+
+.post .btn.btn-grey {
+  color: #212121;
+  color: var(--dark-2-color, #212121);
+  background: #c7c7c7;
+  background: var(--grey-4-color, #c7c7c7);
+  border-color: #c7c7c7;
+  border-color: var(--grey-4-color, #c7c7c7);
+}
+
+.post .btn.btn-black-line {
+  color: #212121;
+  color: var(--dark-2-color, #212121);
+  border-color: #212121;
+  border-color: var(--dark-2-color, #212121);
+}
+
+.post .btn.btn-main {
+  color: #F6F6F6;
+  color: var(--white-2-color, #F6F6F6);
+  background: #9A1144;
+  background: var(--main-color, #9A1144);
+  border-color: #9A1144;
+  border-color: var(--main-color, #9A1144);
+}
+
+.post .btn.btn-accent {
+  color: #212121;
+  color: var(--dark-2-color, #212121);
+  background: #FFC021;
+  background: var(--accent-color, #FFC021);
+  border-color: #FFC021;
+  border-color: var(--accent-color, #FFC021);
+}
+
+.post .btn.btn-accent:hover {
+  background: rgb(192, 142, 25);
+  border-color: rgb(192, 142, 25);
+}
+
 
 .author{
 border: 2px solid var(--secondary-color, #A32655);

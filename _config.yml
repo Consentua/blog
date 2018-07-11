@@ -13,7 +13,7 @@ url:
 baseurl:          
 home:             http://consentua.com
 dashboard:        https://testdashboard.consentua.com
-api:              http://test.consentua.com/swagger
+api:              http://api.consentua.com
 
 author:
   name:           'Knownow Information'
@@ -28,5 +28,5 @@ gist:
 version:          2.1.0
 
 github:           
-  repo:           consentua/consentuaBlog
-repository:       consentua/consentuaBlog
+  repo:           consentua/blog
+repository:       consentua/blog
