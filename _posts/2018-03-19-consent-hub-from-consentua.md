@@ -10,6 +10,8 @@ comments: true
 As business becomes more aware of the challenges they face with implementing GDPR the noise in the market place about consent is gaining pace.    This is great for us at Consentua as we provide an awesome consent management service.   
 Consent management is creating a new data set. One that is not actually owned by the business but is owned and managed by their customer.  This dataset is the consent receipt. Yet, the business needs to access this consent receipt to check they are allowed to do what they want with regard to a customers personal data.   
 
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-03-19-consent-hub-from-consentua/fingerprint-2750393_1280.png" alt="Kantara Initiative Logo">
+
 ## A New Requirement is born
 What is rapidly discovered is that multiple parties internal and sometimes externally all want to have access to this consent receipt.   Now, the customer tends to have only one or two access points into an organisation (e.g. via an app or direct in store).  However, the business needs many systems to deliver the smile the customer demands.   All these systems use personal data.  They will want to use the consent receipt the customer generates. 
 
@@ -27,7 +29,7 @@ Consentua, can manage via its admin dashboard the consent requests and consent s
 
 Supporting multi-language, multi-jurisdiction, multi-purposes and different consent scenarios (e.g. employees versus customers consent) all under a single consent management view.  
 
-<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Consentua_twitter.png" alt="Kantara Initiative Logo">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Consentua_twitter.png" alt="Kantara Initiative Logo">
 
 ## Does your business need a consent hub?
 
