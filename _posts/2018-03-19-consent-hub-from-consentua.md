@@ -27,6 +27,8 @@ Consentua, can manage via its admin dashboard the consent requests and consent s
 
 Supporting multi-language, multi-jurisdiction, multi-purposes and different consent scenarios (e.g. employees versus customers consent) all under a single consent management view.  
 
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Consentua_twitter.png" alt="Kantara Initiative Logo">
+
 ## Does your business need a consent hub?
 
 If the requirement outlined above resonates then please get in touch at contact@consentua.com
