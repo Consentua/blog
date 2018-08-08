@@ -75,6 +75,8 @@ Consentua gives individual data subjects control over their personal data, allow
 
 The ability to decide whether to accept a service and how much data to provide in exchange will revolutionise how citizens interact with those services. Some citizens will likely prefer to provide the bare minimum data because they do not see additional value in a more comprehensive service. Some are likely to become ‘superusers’, more than willing to exchange their personal information for the services because they identify great value in the services they subscribe to.
 
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2017-05-16-how-to-implement-consent-for-your-council-under-gdpr/heart-2750394_640-compressor.png" alt="img">
+
 These super-users would be far more likely to be advocates for your services. They would become a segment of customers that could be worked with on developing future services or in marketing.
 
 There’s also the likelihood that citizens would take opportunities to get value for information that would be shared anyway. It is anticipated that retailers will be quick to use these technologies and that may well inspire citizens to seek out other such opportunities from their public sector service providers.
