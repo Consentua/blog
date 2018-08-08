@@ -13,6 +13,8 @@ What has been interesting to observe is that those in the technology industry se
 
 The realisation that GDPR is coming is dawning on more and more business’.   GDPR will be a challenge as well as an opportunity.   The challenge is that data protection in the business is now serious due to the penalties involved (4% of global turnover) it therefore demands attention.   The second challenge is time.  GDPR comes into force on May 25th 2018.   This means the panic button should not be hit just yet, but time will fly.  Start planning now.  
 
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2017-11-24-why-you-need-consent-it-enables-trust/gdpr-3518254_640-compressor.jpg" alt="gdpr">
+
 The opportunity is huge though.  Firstly adherence to GDPR will improve your knowledge and understanding of your customers.  Which can only be a good thing.  This improved knowledge will increase trust.  Which should lead to happier, sticker customers and more business for you.    
 
 The market today is seeing potential customers declining signing up for services due to the often binary terms and conditions requested.  This is leading to lost business.   Therefore, the opportunity for different levels of service quality related to the amount of personal data obtained from a customer will encourage more users to sign up; help retain these customers and also allow organisations to offer that bespoke very personal service that trusted brands can then exploit.   
@@ -24,6 +26,8 @@ Overall GDPR will help reduce risk and exposure to your business.  This is criti
 Do not panic.  This is because Consentua can help.   Consentua does one thing very well, it captures consent from the data subject/user.  
 
 Consentua is a lightweight low impact API.  This will enable quick and easy install into any business operation.   This new service is available today and all it requires to start working is firstly a conversation about your consent requirements.  Secondly, taking the output from the privacy impact assessment (PIA) that will be conducted as part of the GDPR preparations to build your unique consent management service. 
+
+<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2017-11-24-why-you-need-consent-it-enables-trust/consentua.png" alt="logo consentua">
 
 Consentua encourages organisations to have different levels of service quality related to the amount personal data being consumed and processed by your organisation. Consentua captures the consent and stores it as a consent receipt.   This then allows any organisation granted access to this consent receipt to have the record of consent that GDPR is now demanding. 
  
