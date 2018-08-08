@@ -31,6 +31,8 @@ Consent management increases trust by providing choice and control.
 
 A consent management tool enables an organisation to record the consent interactions that they have with their customers, employees and users. It allows those customers, employees and users to choose what they consent to, what purposes they accept and to control access to their personal data.
  
+ <img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/cyber-security-3400723_640-compressor.jpg" alt="personal data">
+ 
 We all see consent slips on the bottom of contracts, at the t’s and c’s page of a website or even on the request slip for a child to attend trips with their school. There are some occasions where these consent requests are inappropriate. If you don’t have any real choice about whether you should consent, for example, then consent should not be used as the legal basis for data processing.
 
 ## Consent receipts and interoperability
