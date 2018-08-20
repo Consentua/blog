@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Azure Cloud and Consentua
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
