@@ -10,9 +10,9 @@ comments: true
 # Microsoft Azure Cloud and Consentua
 
 
-Microsoft Azure Cloud was an obvious choice for hosting Consentua. The scalability and flexibility of the cloud services meant that we were able to set up and build the service very quickly. This article provides some insight into how we have set up Consentua to take advantage of some of the capabilities offered by Azure.
+<a href="https://azure.microsoft.com">Microsoft Azure Cloud</a> was an obvious choice for hosting Consentua. The scalability and flexibility of the cloud services meant that we were able to set up and build the service very quickly. This article provides some insight into how we have set up Consentua to take advantage of some of the capabilities offered by Azure.
 ## A cloud is needed
-We secured our first sale of Consentua to Innovate UK and Sharing Economy UK in 2015. Until then it was hosted on our development environment. We therefore had the question of which platform, and in which geography the production Consentua service would be hosted.    
+We secured our <a href="http://shapingportsmouth.co.uk/shaping-blog/1223-innovate-uk-award">first sale of Consentua</a> to Innovate UK and Sharing Economy UK in 2016. Until then it was hosted on our development environment. We therefore had the question of which platform, and in which geography the production Consentua service would be hosted.    
 
 We always knew from the outset that Consentua would be cloud hosted. This is because we already had experience within the team of using cloud services. Plus we did want to buy a server. In short  we were not scared to have a cloud first policy and the Consentua service was designed from the outset to be platform agnostic.   
 ## The cloud platform picks you.
@@ -39,4 +39,4 @@ Offering continuous integration for new releases is typical feature of code mana
 The production service when it gets busier requires more resources to be dynamically allocated.   This is also used when we conduct performance testing. The ability to quickly mimic the production set up and work load is another plus point for the Azure platform.  
 ## What next?
 The plan is that Consentua will eventually integrate natively with Microsoft and partner provided tools, applications and services.    
-To know more about Consentua go to Consentua · Consent Choice and Control
+To know more about Consentua go to <a href="www.consentua.com">Consentua · Consent Choice and Control</a>
