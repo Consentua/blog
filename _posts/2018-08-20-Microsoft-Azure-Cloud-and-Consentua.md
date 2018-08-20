@@ -16,7 +16,7 @@ We secured our <a href="http://shapingportsmouth.co.uk/shaping-blog/1223-innovat
 We always knew from the outset that Consentua would be cloud hosted. This is because we already had experience within the team of using cloud services. Plus we did want to buy a server. In short  we were not scared to have a cloud first policy and the Consentua service was designed from the outset to be platform agnostic.
 
 ## The cloud platform picks you.
-<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/3.png" alt="Map of Europe in multiple colours" width="300px" height="200px">
+<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/3.png" alt="Map of Europe in multiple colours" width="150px" height="100px">
 A developer usually has a bias in approach, tools and even the code style. Our Director of development Tom Ashcroft said 
 
 > “I wanted to use Microsoft Azure Cloud for Consentua from the beginning. I was comfortable with their services and it was really quick to set up”
