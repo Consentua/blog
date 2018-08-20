@@ -19,6 +19,7 @@ We always knew from the outset that Consentua would be cloud hosted. This is bec
 <img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/3.png" alt="Map of Europe in multiple colours" width="240px" height="160px">
 A developer usually has a bias in approach, tools and even the code style. Our Director of development Tom Ashcroft said 
 
+<br>
 
 > “I wanted to use Microsoft Azure Cloud for Consentua from the beginning. I was comfortable with their services and it was really quick to set up”
 
