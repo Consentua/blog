@@ -36,6 +36,7 @@ The use of resource groups allows for easier accounting and management. Managing
 Scaling up and down as demand dictates is another feature Consentua relies on. This again helps Consentua contain cost, whilst maximising the processing demand (as this drives revenue). Alongside a comprehensive reporting (live stream analytics) and systems availability/alerting capability.
 
 ## Consentua on Azure
+<img class="img-right" src="https://github.com/Consentua/blog/blob/master/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/3.png" alt="Map of Europe in multiple colours" width="200px" height="200px">
 The Consentua service on Azure is hosted in Western Europe with the production service multi-redundant across datacenters. The development and test landscapes run in their own dedicated resource groups. Europe was chosen simply as this is where the majority of our customers are located. 
 
 Offering continuous integration for new releases is typical feature of code management on cloud hosted services. Consentua is no different. Again, Azure and Consentua have a good fit here in terms of capability offered and requirement demanded. 
