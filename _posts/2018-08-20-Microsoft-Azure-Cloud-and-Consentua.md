@@ -28,7 +28,7 @@ With Consentua the first version was written for a .net platform, that is becaus
 Therea are two reasons why Azure won over its competitors. Firstly, Azure was the only cloud platform that supported the .Net version that Consentua required. The second was price and performance. This was especially valid during the development phase because Azure comes with a healthy free allocation which meant we would not be paying for any compute resources in the short term. A good proposition for a product in development.
 
 ## Maximising your investment
-<img class="img-right" src="https://github.com/Consentua/blog/blob/master/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/2(1).jpg" alt="A desk with a laptop and papers" width="200px" height="200px">
+<img class="img-right" src="https://github.com/Consentua/blog/blob/master/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/2%20(1).jpg" alt="A desk with a laptop and papers" width="200px" height="200px">
 Once we have made the strategic decision to use Azure it is necessary to maximise this investment. Azure gives us lots of flexibility in terms of where a service is geographically located.    
 
 The use of resource groups allows for easier accounting and management. Managing cost is an important aspect of any responsible application service provider. The resource group also allows us to consolidate common functions (systems management) and yet offer separate landscapes for development & test.  This improves security and enforces best practice code and release management.  
