@@ -20,6 +20,7 @@ We always knew from the outset that Consentua would be cloud hosted. This is bec
 A developer usually has a bias in approach, tools and even the code style. Our Director of development Tom Ashcroft said 
 
 <br>
+<br>
 
 > “I wanted to use Microsoft Azure Cloud for Consentua from the beginning. I was comfortable with their services and it was really quick to set up”
 
