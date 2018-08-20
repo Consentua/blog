@@ -7,9 +7,7 @@ comments: true
 ---
 
 
-# Microsoft Azure Cloud and Consentua
-
-<img class="img-right" src="https://github.com/Consentua/blog/blob/master/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/1.jpg" alt="Microsoft Azure Cloud image" width="300px" height="200px">
+<img class="img-right" src="https://github.com/Consentua/blog/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/1.jpg" alt="Microsoft Azure Cloud image" width="300px" height="200px">
 <a href="https://azure.microsoft.com">Microsoft Azure Cloud</a> was an obvious choice for hosting Consentua. The scalability and flexibility of the cloud services meant that we were able to set up and build the service very quickly. This article provides some insight into how we have set up Consentua to take advantage of some of the capabilities offered by Azure.
 
 ## A cloud is needed
@@ -47,4 +45,4 @@ The production service when it gets busier requires more resources to be dynamic
 ## What next?
 <img class="img-right" src="https://github.com/Consentua/blog/blob/master/public/post_imgs/2018-08-20-Microsoft-Azure-Cloud-and-Consentua/7.png" alt="Consentua in coloured smoke" width="300px" height="200px">
 The plan is that Consentua will eventually integrate natively with Microsoft and partner provided tools, applications and services.    
-To know more about Consentua go to <a href="www.consentua.com">Consentua · Consent Choice and Control</a>
+To know more about Consentua go to <a href="https://www.consentua.com">Consentua · Consent Choice and Control</a>
