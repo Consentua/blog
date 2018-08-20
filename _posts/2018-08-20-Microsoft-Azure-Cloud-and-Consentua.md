@@ -9,7 +9,7 @@ comments: true
 
 # Microsoft Azure Cloud and Consentua
 
-
+<img class="img-right" src="http://placehold.it/200x200" alt="img right">
 <a href="https://azure.microsoft.com">Microsoft Azure Cloud</a> was an obvious choice for hosting Consentua. The scalability and flexibility of the cloud services meant that we were able to set up and build the service very quickly. This article provides some insight into how we have set up Consentua to take advantage of some of the capabilities offered by Azure.
 ## A cloud is needed
 We secured our <a href="http://shapingportsmouth.co.uk/shaping-blog/1223-innovate-uk-award">first sale of Consentua</a> to Innovate UK and Sharing Economy UK in 2016. Until then it was hosted on our development environment. We therefore had the question of which platform, and in which geography the production Consentua service would be hosted.    
