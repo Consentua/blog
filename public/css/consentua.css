@@ -34,22 +34,15 @@ a{
 h1,h2,h3,h4,h5,h6{
   font-family: 'Raleway', sans-serif;
 }
-ul{
+.page ul{
   list-style: none;
   padding: 0px;
   /*color: var(--main-color, #9A1144);*/
 }
-ul li::before {
-  font-family: FontAwesome;
-  content: "\f1ce";
-  color: var(--main-color, #9A1144);
-  margin-right: 0.5rem;
-  font-size: 0.85rem;
-}
-ul li{
+.page ul li{
   margin-bottom: 0.2rem;
 }
-ul li h3{
+.page ul li h3{
   display: inline-block;
 }
 @media (min-width: 48em) {

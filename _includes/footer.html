@@ -1,0 +1,171 @@
+<style>
+	footer#page-footer {
+		width: 100%;
+		flex-shrink: 0;
+		font-size: 0.8rem;
+		padding: 1rem 0rem;
+		background-color: #373737;
+		background-color: var(--dark-3-color, #373737);
+		background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23212121' fill-opacity='0.11' fill-rule='evenodd'/%3E%3C/svg%3E");
+		color: #F6F6F6;
+		color: var(--white-2-color, #F6F6F6);
+	}
+	footer#page-footer>.cols {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	
+	footer#page-footer>.cols>.col>ul {
+		text-transform: capitalize;
+		list-style: none;
+		min-width: 140px;
+		padding: 0;
+	}
+	
+	footer#page-footer a {
+		color: #F6F6F6;
+		color: var(--white-2-color, #F6F6F6);
+		font-size: 0.7rem;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	footer#page-footer p > a {
+		text-decoration: underline;
+	}
+	footer#page-footer>.cols>.col{
+		max-width: 200px;
+	}
+	footer#page-footer>.cols>.col>ul>li>a:hover,
+	footer#page-footer>.cols>.col>ul>li>a:focus {
+		color: #c7c7c7;
+		color: var(--grey-4-color, #c7c7c7);
+		text-decoration: none;
+	}
+	footer#page-footer>.cols>.col .col-tile{
+		font-weight: 600;
+		line-height: 2rem;
+	}
+	footer#page-footer > article{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		align-items: center;
+	}
+	footer#page-footer > article  p{
+		margin: 0;
+		font-size: 0.6rem;
+	}
+	footer#page-footer > article aside>a{
+		font-size: 1rem;
+		margin: 0.5rem;
+	}
+
+	@media only screen and (max-height: 900px){
+		footer#page-footer, footer#page-footer a{
+			/* margin-top: 2rem; */
+			color: #F6F6F6)
+			color: var(--white-2-color, #F6F6F6);
+
+			background-color: #373737)
+			background-color: var(--dark-3-color, #373737);
+
+
+		}
+	}
+	@media only screen and (max-width: 1000px){
+		footer#page-footer > article,
+		footer#page-footer > .cols{
+			margin: 0 1rem !important;
+		}
+		footer#page-footer>.cols {
+		justify-content: space-around;
+		}
+	}
+</style>
+<footer id="page-footer">
+	<div class="cols container">
+		<span class="col">
+			<ul>
+				<li>
+					<span class="col-tile">Product</span>
+				</li>
+				<li>
+					<a href="{{ site.url }}/pricing.html">Pricing</a>
+				</li>
+				<li>
+					<a href="{{ site.dashboardurl }}">Dashboard</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/faq.html">FAQ</a>
+				</li>
+			</ul>
+		</span>
+		<span class="col">
+			<ul>
+				<li>
+					<span class="col-tile">Developers</span>
+				</li>
+				<li>
+					<a href="https://consentua.com/docs">Docs</a>
+				</li>
+				<li>
+					<a href="http://api.consentua.com/swagger">API reference</a>
+				</li>
+				<li>
+					<a href="https://github.com/Consentua/Documentation">Guides</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/demo.html">Demo</a>
+				</li>
+			</ul>
+		</span>
+		<span class="col">
+			<ul>
+				<li>
+					<span class="col-tile">Company</span>
+				</li>
+				<li>
+					<a href="{{ site.url }}/consent-dashboard.html">Consent Dashboard</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/about.html">About us</a>
+				</li>
+				<li>
+					<a href="{{ site.blogurl }}">Blog</a>
+				</li>
+			</ul>
+		</span>
+		<span class="col">
+			<ul>
+				<li>
+					<span class="col-tile">Resources</span>
+				</li>
+				<li>
+					<a href="{{ site.url }}/contact.html">Contact</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/resources.html">Resources</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/privacy-policy.html">Privacy Policy</a>
+				</li>
+			</ul>
+		</span>
+	</div>
+	<article class="container">
+		<div>
+			<p>© 2016-2018 <a href="http://www.kn-i.com/">KnowNow Information Limited.</a></p>
+			<p>Registered in England and Wales number 8781104.</p>
+			<p>Registered address: Halpern House, 1-2 Hampshire Terrace, Portsmouth, PO1 2QF</p>
+			<p>Consentua and the 'Consentua Choice and Control' logo are registered trademarks of KnowNow Information Limited.</p>
+		</div>
+		<aside>
+			<a href="https://twitter.com/{{ site.twitter_username }}"><i class="fab fa-twitter"></i></a>
+			<a href="https://vimeo.com/channels/{{ site.vimeo_username }}"><i class="fab fa-vimeo-v"></i></a>
+			<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github"></i></a>
+		</aside>
+	</article>
+</footer>
