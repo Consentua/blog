@@ -24,7 +24,7 @@ Candidate improvements, including those from your suggestions, are added to card
 
 We have outlined plans our next release, Dugong. The focus for Dugong is the Consent Receipt. However, plans are always subject to change especially when driven by customer demands. 
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/DugongCapybaraTrello.JPG" alt="img center">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/DugongCapybaraTrello.PNG" alt="img center">
 
 ## Vote with your thumbs
 
