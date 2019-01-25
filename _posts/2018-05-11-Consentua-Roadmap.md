@@ -30,7 +30,9 @@ We have outlined plans our next release, Dugong. The focus for Dugong is the Con
 
 <img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/thumbs.JPG" alt="img right">
 
-The intention is to have the majority of future functional changes driven by customer demand. This seems much better than sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority through improved performance, security, resilience or function.  
+The intention is to have the majority of future functional changes driven by customer demand. This seems much better than sitting back at Consentua HQ thinking we know best.  
+
+Of course, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority through improved performance, security, resilience or function.  
 
 To that end we ask our followers and users to help us prioritise the next functions and vote with your thumbs.   
 
