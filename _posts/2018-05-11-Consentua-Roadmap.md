@@ -6,21 +6,23 @@ author: chris_cooper
 comments: true
 ---
 
-## Now on Trello
+## Consentua Roadmap now on Trello
 
-Taking a leaf out of some [other's books](https://trello.com/b/bnAC4rtd/pixelme-roadmap) (thank you Pixelme!) and in the interests of transparency the Consentua team is pleased to release in public the [Consentua Roadmap](https://trello.com/b/AktQXrOh/consentua-roadmap).
+The Consentua team is pleased to publish the [Consentua Roadmap](https://trello.com/b/AktQXrOh/consentua-roadmap).
 
-We wanted to improve customer trust in our brand by publishing upcoming developments. Our brand ethos is always to be as open and transparent as possible.
+We wanted to improve customer trust in our brand by sharing upcoming developments. Our brand ethos is always to be as open and transparent as possible.
 
-We invite comments and votes for promoting changes on the existing cards.  As well sugestons for new functions and  enhancements that we can add to Consentua over time.
+We invite suggestions, comments and votes for promoting changes on the existing cards. As well as suggestions for new functions and enhancements that you need to make Consentua the best tool for your needs.
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Consnetua-trellroadmap.PNG" alt="img center">
 
 ## How it works
 
-The cards have been allocated a target build.  We give the builds obscure mammal names so we know which release we are working on.  
+Each release of Consentua is based on a 'build'. We give the build an obscure mammal names so we know which release we are working on.  
 
-So far we have outlined plans for the next two releases.  These are Capybara and Dugong, which have a specific focus in each release. For Capybara the focus is all about the "Purposes'.   For Dugong the focus is on the Consent Receipt.  However, plans are always subject to change especially when driven by customer demands. 
+Candidate improvements, including those from your suggestions, are added to cards that have been allocated a target build.  
+
+We have outlined plans our next release, Dugong. The focus for Dugong is the Consent Receipt. However, plans are always subject to change especially when driven by customer demands. 
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/DugongCapybaraTrello.JPG" alt="img center">
 
@@ -28,7 +30,7 @@ So far we have outlined plans for the next two releases.  These are Capybara and
 
 <img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/thumbs.JPG" alt="img right">
 
-The intention is to have the majority of future functional change driven by customer demand. This seems much better  than us sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority through improved performance, security, resilience and sometimes function.  
+The intention is to have the majority of future functional changes driven by customer demand. This seems much better than sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority through improved performance, security, resilience or function.  
 
 To that end we ask our followers and users to help us prioritise the next functions and vote with your thumbs.   
 
@@ -37,9 +39,7 @@ To that end we ask our followers and users to help us prioritise the next functi
 
 <img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Key.JPG" alt="img left">
 
-We have colour coded the cards to give readers an understanding of where the change will impact and who it will benefit.   What is interesting here is that we are shifting from an engineering driven set of changes to more customer driven changes.   May that long continue! 
-
-The key breaks down into two different elements: 1)  API, Dashboard & SDK  - functional component impact area.  2) Customer Requested, Easier Management (for Consentua that is) and Client Centric function - identifies who the improving function will benefit. 
+We have colour coded the cards to give readers an understanding of where the change will impact and who it will benefit.   What is interesting here is that we are shifting from an engineering driven set of changes to more customer driven changes.   May that long continue!
 
 
 ## Consentua Roadmap
@@ -47,4 +47,6 @@ The key breaks down into two different elements: 1)  API, Dashboard & SDK  - fun
 To check out the Consentua Roadmap go to this link: 
 
 [https://trello.com/b/AktQXrOh/consentua-roadmap](https://trello.com/b/AktQXrOh/consentua-roadmap)
+
+Or you can let us know how we can improve this process using the comments below!
 
