@@ -54,7 +54,7 @@ The image below is showing that one purpose has been agreed to.  This was the de
 
 As you move to the checkout another set of consents appears.  
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/6.png">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/6.PNG">
 
 The above image shows the consent request being finalised at the end of the customer journey at the checkout.  With the pop-up showing three purposes now being consented too.  
 
@@ -83,4 +83,4 @@ The first image is showing the service details and the associated templates. The
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/9.png">
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/10.png">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/10.PNG">
