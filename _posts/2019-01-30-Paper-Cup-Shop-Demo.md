@@ -15,7 +15,7 @@ It depends on:
 - Or is it to have a single go-to place for consent for all parties?
 - Perhaps it is to improve trust in your brand? 
 
-All these variables shape how and when you get consent from customers. However, their is nothing like a real-life working example to help shape your thinking.  To that end and to help get the creative juices going the Consentua team have mocked up a fairly standard e-commerce site via our new spoof company - “The Paper Cup Shop”. You can visit the demo at http://cupshop.consentua.com/#/
+All these variables shape how and when you get consent from customers. However, their is nothing like a real-life working example to help shape your thinking.  To that end and to help get the creative juices going the Consentua team have mocked up a fairly standard e-commerce site via our new spoof company - “The Paper Cup Shop”. You can visit the demo [here](http://cupshop.consentua.com/#/)
 
 Note:  This is only one example of best practice consent management.
 
@@ -87,6 +87,6 @@ First Image
 Second Image
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-01-30-Paper-Cup-Shop-Demo/10.PNG">
 
-You can access the paper cup shop demo at http://cupshop.consentua.com/#/
+You can access the paper cup shop demo [here](http://cupshop.consentua.com/#/)
 
 If you would like to start a free trial, or to talk to our team contact@consentua.com or call 02392 160640
