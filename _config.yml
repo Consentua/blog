@@ -21,6 +21,9 @@ author:
 
 paginate:         2
 
+plugins:
+  - jekyll-redirect-from
+
 gist:
   noscript: false
 
