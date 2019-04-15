@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Data Privacy Compliance: Is your business at risk?
+title: Data Privacy Compliance, Is your business at risk?
 published: true
 author: George_Barbeary
 tags: [Data Privacy Compliance, Personal Data, GDPR, Google]
 comments: true
 ---
-
-# Data Privacy Compliance: Is your business at risk?
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-04-15-data-privacy-compliance/europe.jpg" alt="a laptop with an eu GDPR logo on the screen. Demostrating data privacy compliance">
 
