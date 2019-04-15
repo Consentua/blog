@@ -43,4 +43,4 @@ The changes in rules around consent have been particularly challenging for busin
 
 Can you be sure your whole organisation is compliant with GDPR’s rules on Consent? Why take the risk.  To avoid a devastating fine, not to mention reputation damage, sign up for a free trial with Consentua and start your journey to compliance.
 
-Visit our website and contact us at <a href="https://consentua.com">https://consentua.com</a>
+If you would like to start a free trial call 02392 160640 or contact us at <a href="https://consentua.com">https://consentua.com</a>
