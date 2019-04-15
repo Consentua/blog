@@ -3,6 +3,7 @@ layout: post
 title: Data Privacy Compliance: Is your business at risk?
 published: true
 author: George_Barbeary
+tags: [Data Privacy Compliance, Personal Data, GDPR, Google]
 comments: true
 ---
 
