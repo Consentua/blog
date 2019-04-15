@@ -9,7 +9,7 @@ comments: true
 
 # Data Privacy Compliance: Is your business at risk?
 
-<img class="img-center" src="https://pixabay.com/images/id-3256079/" alt="a laptop with an eu GDPR logo on the screen. Demostrating data privacy compliance">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-04-15-data-privacy-compliance/europe.jpg" alt="a laptop with an eu GDPR logo on the screen. Demostrating data privacy compliance">
 
 Data Privacy Compliance is suddenly at the forefront of most company’s plans. Most businesses will be aware that the legislation has changed (and is still changing). Some will also be aware that the data protection authorities have begun to fine non-compliant organisations.
 
@@ -29,7 +29,7 @@ Before the 25th of May 2018, the number of infringements reported per month was 
 
 Yet, it appears the grace period is over. In January 2019, <a href="https://www.theguardian.com/technology/2019/jan/21/google-fined-record-44m-by-french-data-protection-watchdog">Google had to swallow a €50 million fine for GDPR violations</a>. This must serve as a wake-up call for all businesses that deal with their customer’s data.
 
-<img class="img-right" src="https://pixabay.com/images/id-959059/" alt="Google office in California">
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2019-04-15-data-privacy-compliance/google.jpg" alt="Google office in California">
 
 The greatest fine possible for a GDPR breach, which is €20 Million or 4% of annual revenue. This is far greater than the largest fine afforded by the Data Protection Act (DPA), which was £500,000.
 
