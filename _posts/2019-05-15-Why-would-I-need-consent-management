@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why would I need consent management?
-published: false
+published: true
 author: david_patto
 tags: [Compliance, Personal Data, GDPR, Google, Privacy, Consent]
 comments: true
@@ -9,7 +9,7 @@ comments: true
 
 <em> TL;DR - By improving trust between you and your customers they will be happier to spend more with you. </em>
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-01-16-Why-does-anyone-need-consent-management-software/Why_consent_software.jpg" alt="blogpost hero image of a pen on a piece of paper">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-05-15-Why-would-I-need-consent-management/Why would I need consent manageme.jpg" alt="blogpost hero image for Consent Management author David Patterson">
 
 I'm amazed how often I'm asked “why does anyone need consent management? Aren’t there other, more applicable legal bases for the processing of personal data?”
 
