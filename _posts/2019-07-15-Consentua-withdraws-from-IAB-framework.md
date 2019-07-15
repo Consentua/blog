@@ -7,9 +7,9 @@ comments: true
 tags: [IAB, Consent Framework. Personal Data, GDPR, Privacy, Consent]
 ---
 
-##Consentua withdraws from the IAB framework
+## Consentua withdraws from the IAB framework
 
-<strong>London, UK.  25th June 2019.</strong> The makers of Consentua, the world leading consent and preference management platform - Making it easy to do the right thing, by helping data controllers to be trustworthy and supporting individuals to have choice and control - have decided not to renew their subscription to the International Advertising Bureau on July 1st 2019, as they feel the ethos of the IAB  cannot be reconciled with the aims of the Consentua product.  
+<strong>London, UK.  25th June 2019.</strong> The makers of Consentua, the world leading consent management platform have decided not to renew their subscription to the International Advertising Bureau on July 1st 2019, as they feel the ethos of the IAB consent framework cannot be reconciled with the aims of the Consentua produc - Making it easy to do the right thing, by helping data controllers to be trustworthy and supporting individuals to have choice and control.
 
 <strong>Richard Gomer, Consentua, Product Director</strong> said, “At the heart of our consent and preference management platform are the key principles of trust, control, and regulatory compliance. We make it easier for data controllers to process data Lawfully, Fairly and Transparently, and we give choice and control to data subjects.  The Information Commissioner’s Office (ICO) recently confirmed that the $200bn ad tech industry buy and sell adverts in real time auctions in a way that is illegal, and contrary to what we believe is sustainable, responsible, or ethical.”
 
@@ -21,4 +21,8 @@ Standards are important, as they ensure you strive for excellence and embed inte
 
 <strong>About</strong>
 
-Consentua is the world leading consent and preference management platform - making it easy to do the right thing, helping data controllers to be trustworthy and supporting individuals to have choice and control. Consentua was formally part of the KnowNow Information (Limited) product portfolio and was conceptualised back in 2015 as part of the Cognicity Challenge - Canary Wharf Group's Smart City Accelerator.  The smart city app,  TRUST API, caught the audience’s imagination, by giving people choice and control over the sharing of their personal data.
+Consentua is the world leading consent management platform - making it easy to do the right thing, helping data controllers to be trustworthy and supporting individuals to have choice and control. 
+
+Partially funded by InnovateUK, Consentua is part of the KnowNow Information product portfolio and was conceptualised back in 2015 as part of the Cognicity Challenge - Canary Wharf Group's Smart City Accelerator. The smart city app caught the audience’s imagination by giving people choice and control over the sharing of their personal data.
+
+Ends
