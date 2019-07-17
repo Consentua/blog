@@ -19,9 +19,7 @@ This is because a consented-to engagement is a much more valuable lead. It demon
 
 Rather than today’s scenario where the intermediaries sat in the middle of the conversation between brand and customer consider themselves king, the brand that owns this consent is now king. 
 
-A customer is more likely to give a brand their consent rather
-than an unknown entity. The brand has a reputation to protect and will behave with that reputation in mind - more likely to conform to customer expectation.
-The intermediaries whole purpose is to push the unconsented-to personal data to the highest bidder.
+A customer is more likely to give a brand their consent rather than an unknown entity. The brand has a reputation to protect and will behave with that reputation in mind - more likely to conform to customer expectation. The intermediaries whole purpose is to push the unconsented-to personal data to the highest bidder.
 
 Trust me, What this boils down to is trust - Do I believe as a consumer that I trust brand X with my personal data? 
 
@@ -45,8 +43,7 @@ In effect, the service should be seen as just another component of the world of 
 
 In the new reality when a user visits a website, the adverts they see should be consented to. How though do we go about this? Who owns this consented to engagement? The publisher, the brand or the one serving the ad?
 
-If we assume the ad is owned by a brand and the brand is looking for the engagement of a user, then the brand owns the consent. If the publisher has a contract to deliver content to the end-user, then the consent is owned by the publisher, who can then ask for permission to deliver an
-advert to 3rd parties. The user can then agree on a case by case basis.
+If we assume the ad is owned by a brand and the brand is looking for the engagement of a user, then the brand owns the consent. If the publisher has a contract to deliver content to the end-user, then the consent is owned by the publisher, who can then ask for permission to deliver an advert to 3rd parties. The user can then agree on a case by case basis.
 
 What is the role of the intermediary?  Well, they have a new role, matching consented-to content to actual delivery. They can become the aggregators of consent and trusted brands in their own right.
 
@@ -55,7 +52,7 @@ What is the role of the intermediary?  Well, they have a new role, matching cons
 The first part is to capture the user's consent. The second is to then make use of this consent.
 This is where consent management tools take centre stage. They are usually deployed within the customer sign up form, or as a pop-up on the website. Crucially, the best tools allow this to happen at the point of interaction with the user - ensuring that there is the very best chance of consent being granted.
 
-A consent management tool creates a [standards-based consent receipt.]  (https://kantarainitiative.org/confluence/display/infosharing/Home) It allows both the user and the digital advertising partner access to this consent receipt. The process is much more transparent leading to increased trust between the user, the brand and the advertising partner.
+A consent management tool creates a [standards-based consent receipt.](https://kantarainitiative.org/confluence/display/infosharing/Home) It allows both the user and the digital advertising partner access to this consent receipt. The process is much more transparent leading to increased trust between the user, the brand and the advertising partner.
 
 You can also track how your user engagement stats change using a new set of statistics - 
 - Number & growth of new consent receipts
