@@ -40,7 +40,7 @@ Simple, access a consent service that holds the consent. This service will be ab
 
 In effect, the service should be seen as just another component of the world of CDN.
 
-## Who owns the consent
+## Who owns the consent?
 
 In the new reality when a user visits a website, the adverts they see should be consented to. How though do we go about this? Who owns this consented to engagement? The publisher, the brand or the one serving the ad?
 
@@ -73,4 +73,4 @@ Now when the web page is served to the end-user, the digital advert provider goe
 ## Next Step
 
 If you want to know more, would like a demo of our Consentua consent management tool or just want a discussion on promoting
-your brand in a consented to fashion, then please get in touch at www.consentua.com or email us at contact@consentua.com
+your brand in a consented to fashion, then please get in touch at [www.consentua.com] or email us at contact@consentua.com
