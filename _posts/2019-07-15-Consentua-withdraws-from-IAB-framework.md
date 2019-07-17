@@ -4,7 +4,7 @@ title: Consentua withdraws from the IAB framework
 published: true
 author: david_patto
 comments: true
-tags: [IAB, Consent Framework. Personal Data, GDPR, Privacy, Consent]
+tags: [IAB, Consent Framework, Personal Data, GDPR, Privacy, Consent]
 ---
 
 <strong>London, UK.  25th June 2019.</strong> The makers of Consentua, the world leading consent management platform have decided not to renew their subscription to the International Advertising Bureau on July 1st 2019, as they feel the ethos of the IAB consent framework cannot be reconciled with the aims of the Consentua produc - Making it easy to do the right thing, by helping data controllers to be trustworthy and supporting individuals to have choice and control.
