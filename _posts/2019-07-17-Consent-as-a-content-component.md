@@ -24,7 +24,7 @@ Rather than today’s scenario where the intermediaries sat in the middle of the
 
 A customer is more likely to give a brand their consent rather than an unknown entity. The brand has a reputation to protect and will behave with that reputation in mind - more likely to conform to customer expectation. The intermediaries whole purpose is to push the unconsented-to personal data to the highest bidder.
 
-<img src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/brand_trust.png" alt="happy woman looking at her phone whilst shopping"  style="float:left; padding-right:10px">Believe me, what it boils down to is trust - Do I believe as a consumer that I trust your brand with my personal data?
+<img src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/brand_trust.jpg" alt="happy woman looking at her phone whilst shopping"  style="float:left; padding-right:10px">Believe me, what it boils down to is trust - Do I believe as a consumer that I trust your brand with my personal data?
 
 This is a personal decision and different people will have different thresholds as to what personal data they will share and when. However, trust is fickle. It takes time to build but can be evaporated in seconds.
 
@@ -72,7 +72,7 @@ Previously it was pay-per-click. Now it is pay-per-consent. The beauty of consen
 
 Now when the web page is served to the end-user, the digital advert provider goes to the consent management service, checks the consent, and serves the advert depending on the result. Just like the other CDN based services.
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/consentua_phone.jpg" alt="Female using Consentua on a phone, agreeing to the use of her data">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/consentua_phone.png" alt="Female using Consentua on a phone, agreeing to the use of her data">
 
 ## Next Step
 
