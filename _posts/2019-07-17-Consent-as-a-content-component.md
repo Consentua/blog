@@ -4,6 +4,7 @@ title: Consent as a content component
 published: true
 author: chris_cooper
 comments: true
+tags: [Consent, Personal Data, GDPR, Privacy, Content Delivery Network, Content, brand marketing]
 ---
 
 <img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/consent_content_hero.jpg" border="2" alt="Pen picture of Chris Cooper, author of Consent as a content component">
@@ -69,6 +70,8 @@ So now the consent receipt is there to be used, instruct your digital advertisin
 Previously it was pay-per-click. Now it is pay-per-consent. The beauty of consent management is that the consent service owner purchases a large pool of consents for exactly this purpose. To encourage that conversation between customer and brand whilst recognising that the customer is in control.
 
 Now when the web page is served to the end-user, the digital advert provider goes to the consent management service, checks the consent, and serves the advert depending on the result. Just like the other CDN based services.
+
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/consentua_phone.jpg" alt="Female using Consentua on a phone, agreeing to the use of her data">
 
 ## Next Step
 
