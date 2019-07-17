@@ -72,6 +72,4 @@ Now when the web page is served to the end-user, the digital advert provider goe
 ## Next Step
 
 If you want to know more, would like a demo of our Consentua consent management tool or just want a discussion on promoting
-your brand in a consented to fashion, then please get in touch at:
-www.consentua.com
-contact@consentua.com
+your brand in a consented to fashion, then please get in touch at www.consentua.com or email us at contact@consentua.com
