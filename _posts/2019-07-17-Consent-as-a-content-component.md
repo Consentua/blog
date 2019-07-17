@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Consent as a content component
+description: Consent has to be a component of web service delivery to provide good personal data management when using CDN
 published: true
 author: chris_cooper
 comments: true
