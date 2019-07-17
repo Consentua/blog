@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Consent as a content component
-published: false
+published: true
 author: chris_cooper
 comments: true
 ---
 
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-07-17-Consent-as-a-content-component/consent_content_hero.jpg" alt="Pen picture of Chris Cooper, author of Consent as a content component">
 
 Consent has to be a component of web service delivery in the world of [CDN (Content Delivery Network)](https://en.wikipedia.org/wiki/Content_delivery_network)
 
