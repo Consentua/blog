@@ -19,4 +19,4 @@ Building on functionality that we've rolled out across our platform, the demo sh
 Dr Richard Gomer, product director for Consentua, said "Consentua was one of the first platforms to adopt the Kantara Consent Receipt format, and we're proud to be at the forefront of giving people control over their personal data and helping our customers put an end the bad consent practices that destroy brand trust and undermine our digital rights."
 
 
-To find out more about Consentua visit www.Consentua.com or call 02392 160640
+To find out more about Consentua visit [www.Consentua.com](https://consentua.com) or call 02392 160640
