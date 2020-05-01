@@ -8,7 +8,7 @@ comments: true
 tags: [Consent, Personal Data, MyData,GDPR, Privacy, Interoperability, consent receipt]
 ---
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2020-05-01-Consentua-takes-important-step-towards-open-personal-data-ecosystems-with-MyData/ConsentuaBasic800x350.png" border="0" alt="Logo for Consentua">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2020-05-01-Consentua-takes-important-step-towards-open-personal-data-ecosystems-with-MyData/ConsentuaBasic800x350.png" border="1" alt="Logo for Consentua">
 
 ## <em>Portsmouth, 1st May 2020</em>
 
