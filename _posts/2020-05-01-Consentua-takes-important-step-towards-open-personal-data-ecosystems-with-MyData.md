@@ -8,9 +8,9 @@ comments: true
 tags: [Consent, Personal Data, MyData,GDPR, Privacy, Interoperability, consent receipt]
 ---
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2019-10-02-Consent-Receipt-Demo/MyData2019.png" border="2" alt="Logo for MyData 2019 event where the Consent Receipt Demo was shown">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2020-05-01-ConsentuaBasic800x600.png" border="2" alt="Logo for Consentua">
 
-## <em>Portsmouth, 01st May 2020</em>
+## <em>Portsmouth, 1st May 2020</em>
 
 ## Consentua takes important step towards open personal data ecosystems with MyData
 
@@ -32,12 +32,12 @@ To download the paper now and see updates in the future from this community visi
 For more information email David Patterson - david@consentua.com
 
 
-## About Consentua:
+### About Consentua:
 
 Consentua is a standards-based personal data consent solution. It lets organisations orchestrate their data processing based on the consent that they have from data subjects. Consentua collects, stores and updates consent records so that business processes can be automatically started and stopped, and provides a rich audit trail of consent collection and use.
 Consentua is a KnowNow Information company and a proud member of MyData Global.
 
-## About MyData Global:
+### About MyData Global:
 MyData Global is an award-winning international nonprofit. The purpose of MyData Global is to empower individuals by improving their right to self-determination regarding their personal data. MyData Global has nearly 90 organisation members and over 600 individual members across industries, and from over 50 countries, on six continents. The nonprofit facilitates the MyData community of several thousand personal data experts and enthusiasts. 
 
 MyData is described in the recently published EU data strategy as a promising initiative for empowering citizens through exercising their digital rights.
