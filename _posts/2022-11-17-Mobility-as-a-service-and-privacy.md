@@ -8,7 +8,7 @@ comments: true
 tags: [Consent, Personal Data, MaaS, Transport, GDPR, Privacy, Interoperability, consent receipt]
 ---
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2020-05-01-Consentua-takes-important-step-towards-open-personal-data-ecosystems-with-MyData/ConsentuaBasic800x350.png" border="1" alt="Logo for Consentua">
+<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2022-11-17-Mobility-as-a-service-and-privacy/MaaS and privacy.jpg" border="1" alt="Blog title for Mobililty as a Service and Privacy featuring a pen picture of the author, Chris Cooper.">
 
 ## <em>Portsmouth, 17th November 2022</em>
 
@@ -23,6 +23,8 @@ Personal data underpins the day-to-day operation and incremental improvement of 
 However, such use of data creates legal and reputational risks. Many individuals are suspicious about how their personal data is used and hence reluctant to share. In some cases, individuals who have concerns about their personal data avoid connected transport systems altogether! It’s therefore important that whilst a MaaS platform complies with the law, it is also perceived by transport users as responsible and trustworthy data custodian.
 
 To build trust, as well as meet regulatory requirements, you have two potential actions. First, you can give data subjects a choice over how their data is used through the use of affirmative consent Second, you can allow them to exercise their rights to restrict processing of their personal data through opt-out mechanisms. 
+
+### Consent Management
 
 Managing preferences, and respecting individuals’ choices about their personal data can be achieved through consent management. This allows you to collect, store, update and apply each person’s preferences throughout their relationship with the MaaS platform. A simple Web API allows other services and components to respond to preference changes in real-time.
 
