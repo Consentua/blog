@@ -2,7 +2,7 @@
 layout: post
 title: Mobility as a Service and privacy
 description: How purpose-based consent improves outcomes and reduces risk of low adoption due to privacy concerns.
-published: false
+published: true
 author: david_patterson
 comments: true
 tags: [Consent, Personal Data, MaaS, Transport, GDPR, Privacy, Interoperability, consent receipt]
